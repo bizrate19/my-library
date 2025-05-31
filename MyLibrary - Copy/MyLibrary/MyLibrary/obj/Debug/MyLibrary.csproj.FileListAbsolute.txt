@@ -1,0 +1,11 @@
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.LoginForm.resources
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\eyos\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.MainForm.resources
